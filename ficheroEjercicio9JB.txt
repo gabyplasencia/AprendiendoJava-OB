@@ -1,0 +1,7 @@
+Este es un fichero de prueba.
+Jirafa
+Elefante
+Canguro
+Ternera
+Maiz
+Tetera
